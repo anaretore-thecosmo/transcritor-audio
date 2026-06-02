@@ -1,9 +1,21 @@
 ---
 name: transcritor-audio
 description: Transcreve arquivos de audio para texto fiel em portugues, rodando o Whisper localmente via faster-whisper, sem chave de API e sem o audio sair da maquina. Use sempre que a pessoa pedir para transcrever um audio, um podcast, um audio longo do WhatsApp, ou mencionar arquivos .opus, .ogg, .mp3, .m4a ou .wav que precisam virar texto. Dispara tambem quando a pessoa fala em passar audio para texto, transcricao, ou quer extrair o conteudo falado de um arquivo de som, mesmo sem usar a palavra transcrever.
-author: Ana Retore (https://github.com/anaretore-thecosmo)
+creator: Ana Retore (THE COSMO)
+created_at: 2026-06-02
+version: 1.0
+architecture: x64
+generated_by: Claude Code (claude-sonnet-4-6)
 license: MIT
 ---
+
+**Criadora:** Ana Retore
+**Ecossistema:** THE COSMO
+**Criado em:** 2026-06-02
+**Versao:** 1.0
+
+---
+
 
 # Transcritor de Audio
 
